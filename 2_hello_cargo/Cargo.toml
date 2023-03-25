@@ -1,7 +1,8 @@
+# section heading indicating the following configues a package
 [package]
-name = "hello_cargo"
-version = "0.1.0"
-edition = "2021"
+name = "hello_cargo" # required lines to compile
+version = "0.1.0" # required lines to compile
+edition = "2021" # required lines to compile
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
