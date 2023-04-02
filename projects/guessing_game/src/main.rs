@@ -1,6 +1,7 @@
 // `use` imports libraries. In this case, we're importing
 // the input/output (i/o) library from the Rust standard library
 use std::io;
+use rand::Rng;
 
 // declaring a function called main
 fn main() {
